@@ -1,0 +1,1372 @@
+/* screen - home-page-drone */
+
+.home-page-drone {
+  background-color: var(--vulcan);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1178px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.home-page-drone .ant-designlogout-outlined-Q6TFI9 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.home-page-drone .battery-otulIX {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .bxbxs-trash-alt-B08mCn {
+  background-color: transparent;
+  height: 36.24%;
+  left: 23.33%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11.58%;
+  width: 50.00%;
+}
+.home-page-drone .camera-GrM9XX {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .car-howkCj {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .cellphone-Ki0one {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .drone-KfAAKu {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .drone-body-MccqLq {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .ellipse-2-B08mCn {
+  background-color: var(--link-water);
+  border-radius: 15px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.home-page-drone .ellipse-2-eYqyUC {
+  background-color: var(--link-water);
+  border-radius: 15px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.home-page-drone .fa-solidedit-eYqyUC {
+  background-color: transparent;
+  height: 49.85%;
+  left: 30.00%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 22.21%;
+  width: 48.75%;
+}
+.home-page-drone .group-1-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+.home-page-drone .group-102-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 1312px;
+  position: absolute;
+  top: 156px;
+  width: 30px;
+}
+.home-page-drone .group-103-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1353px;
+  position: absolute;
+  top: 156px;
+  width: 30px;
+}
+.home-page-drone .group-123-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 110px;
+  width: 1328px;
+}
+.home-page-drone .group-124-kdwriU {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 22px;
+}
+.home-page-drone .group-129-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 471px;
+  position: absolute;
+  top: 531px;
+  width: 20px;
+}
+.home-page-drone .group-130-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 232px;
+  width: 408px;
+}
+.home-page-drone .group-131-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 327px;
+  width: 408px;
+}
+.home-page-drone .group-132-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 422px;
+  width: 408px;
+}
+.home-page-drone .group-133-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 327px;
+  width: 266px;
+}
+.home-page-drone .group-134-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 533px;
+  width: 266px;
+}
+.home-page-drone .group-135-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 743px;
+  width: 266px;
+}
+.home-page-drone .group-136-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 946px;
+  width: 266px;
+}
+.home-page-drone .group-3-C61RwL {
+  background-color: transparent;
+  height: 971px;
+  left: 57px;
+  position: absolute;
+  top: 148px;
+  width: 468px;
+}
+.home-page-drone .group-3-VyzZeT {
+  background-color: transparent;
+  height: 41px;
+  left: 1363px;
+  position: absolute;
+  top: 10px;
+  width: 49px;
+}
+.home-page-drone .group-7-0VemYL {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-drone .group-7-0VemYL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-drone .group-7-GnH3Dd {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-drone .group-7-GnH3Dd:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-drone .group-7-xYSxTl {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-drone .group-7-xYSxTl:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-drone .group-7-xxRT71 {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-drone .group-7-xxRT71:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-drone .iaf01-howkCj {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .iaf02-Ki0one {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .iaf03-01-ni4IuY {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .iaf03-02-rq78IU {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .iaf03-03-wd1xcm {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .iaf03-04-hcnFW1 {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .iaf03-KfAAKu {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .image-11-C61RwL {
+  background-color: transparent;
+  height: 96px;
+  left: 1154px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 206px;
+  width: 158px;
+}
+.home-page-drone .image-12-C61RwL {
+  background-color: transparent;
+  height: 87px;
+  left: 1182px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 417px;
+  width: 102px;
+}
+.home-page-drone .image-13-C61RwL {
+  background-color: transparent;
+  height: 134px;
+  left: 1160px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 618px;
+  width: 134px;
+}
+.home-page-drone .image-14-C61RwL {
+  background-color: transparent;
+  height: 98px;
+  left: 1178px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 821px;
+  width: 98px;
+}
+.home-page-drone .image-2-VyzZeT {
+  background-color: transparent;
+  height: 60px;
+  left: 20px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+.home-page-drone .inventory-asset-forecasting-VyzZeT {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 334px;
+}
+.home-page-drone .line-20-kVKiWv {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 38px;
+  width: 1326px;
+}
+.home-page-drone .line-21-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 392px;
+  width: 824px;
+}
+.home-page-drone .line-22-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 602px;
+  width: 824px;
+}
+.home-page-drone .line-23-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 804px;
+  width: 824px;
+}
+.home-page-drone .logout-Q6TFI9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 49px;
+}
+.home-page-drone .mdi-lightmagnify-LfwUjk {
+  background-color: transparent;
+  height: 24px;
+  left: 213px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+.home-page-drone .parts-description-GrM9XX {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-description-MccqLq {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-description-mjIumg {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-description-otulIX {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-id-hcnFW1 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-id-ni4IuY {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-id-rq78IU {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .parts-id-wd1xcm {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .produce-9nIQx3 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-drone .produce-XCE04S {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-drone .produce-count-KfAAKu {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .produce-count-Ki0one {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .produce-count-howkCj {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .produce-k4KaFW {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-drone .produce-v3VyIi {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-drone .products-kVKiWv {
+  background-color: transparent;
+  height: 25px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .propeller-mjIumg {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .quantity-jGSBnk {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .quantity-trCdTl {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .quantity-vcoZO8 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .quantity-zUjqOF {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-drone .rectangle-1-VyzZeT {
+  background-color: var(--ebony-clay);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.home-page-drone .rectangle-10-34JVUn {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-drone .rectangle-10-5a1vwp {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-drone .rectangle-10-GrM9XX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-HXBwy7 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-drone .rectangle-10-LfwUjk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+.home-page-drone .rectangle-10-MccqLq {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-eFSiOI {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-drone .rectangle-10-hcnFW1 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-jGSBnk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-mjIumg {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-ni4IuY {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-otulIX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-rq78IU {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-trCdTl {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-vcoZO8 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-wd1xcm {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-10-zUjqOF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-drone .rectangle-3-hvAGCq {
+  background-color: var(--scarpa-flow);
+  height: 971px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 468px;
+}
+.home-page-drone .rectangle-59-9nIQx3 {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-drone .rectangle-59-XCE04S {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-drone .rectangle-59-k4KaFW {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-drone .rectangle-59-v3VyIi {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-drone .rectangle-88-kVKiWv {
+  background-color: var(--flamingo);
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 182px;
+}
+.home-page-drone .rectangle-89-ZpkusC {
+  background-color: var(--vulcan);
+  border-radius: 5px;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.home-page-drone .rectangle-90-KfAAKu {
+  background-color: var(--waterloo-);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-drone .rectangle-90-Ki0one {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-drone .rectangle-90-howkCj {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-drone .search-LfwUjk {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .text-field-0VemYL {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-drone .text-field-2P4qUJ {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 477px;
+  width: 507px;
+}
+.home-page-drone .text-field-3kIbHG {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 890px;
+  width: 507px;
+}
+.home-page-drone .text-field-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 241px;
+  position: absolute;
+  top: 177px;
+  width: 252px;
+}
+.home-page-drone .text-field-GnH3Dd {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-drone .text-field-HlKRTo {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 687px;
+  width: 507px;
+}
+.home-page-drone .text-field-J1YQmd {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 533px;
+  width: 507px;
+}
+.home-page-drone .text-field-QxM5SU {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 268px;
+  width: 507px;
+}
+.home-page-drone .text-field-VMr6Om {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 212px;
+  width: 507px;
+}
+.home-page-drone .text-field-VkPPtx {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 743px;
+  width: 507px;
+}
+.home-page-drone .text-field-YWzA7M {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 834px;
+  width: 507px;
+}
+.home-page-drone .text-field-a5WPlX {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 631px;
+  width: 507px;
+}
+.home-page-drone .text-field-a73nmY {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 946px;
+  width: 507px;
+}
+.home-page-drone .text-field-mzXdH9 {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 421px;
+  width: 507px;
+}
+.home-page-drone .text-field-qr8e7q {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 324px;
+  width: 507px;
+}
+.home-page-drone .text-field-xYSxTl {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-drone .text-field-xxRT71 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-drone .vector-MEexO3 {
+  background-color: transparent;
+  height: 84.00%;
+  left: 7.88%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8.00%;
+  width: 86.00%;
+}
+.home-page-drone .vector-PEgzOO {
+  background-color: transparent;
+  height: 103.64%;
+  left: -1.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1.81%;
+  width: 102.56%;
+}
+.home-page-drone .vector-tCHQLv {
+  background-color: transparent;
+  height: 72.92%;
+  left: 11.62%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15.80%;
+  width: 72.92%;
+}
+.home-page-drone .vector-yRLXsy {
+  background-color: transparent;
+  height: 86.93%;
+  left: 10.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6.54%;
+  width: 80.00%;
+}
+.home-page-drone .x1-ZpkusC {
+  background-color: transparent;
+  height: 10px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 12px;
+}
+.home-page-drone .x2-34JVUn {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-drone .x2-5a1vwp {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-drone .x2-HXBwy7 {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-drone .x2-eFSiOI {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-drone .x2-howkCj {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .x2-trCdTl {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .x2-vcoZO8 {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .x3-KfAAKu {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .x3-jGSBnk {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-drone .x5-Ki0one {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-drone .x5-zUjqOF {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}

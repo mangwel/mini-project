@@ -1,0 +1,1677 @@
+/* screen - home-page-car-delete */
+
+.home-page-car-delete {
+  background-color: var(--vulcan);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1178px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.home-page-car-delete .ant-designlogout-outlined-Q6TFI9 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.home-page-car-delete .body-otulIX {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .bxbxs-trash-alt-B08mCn {
+  background-color: transparent;
+  height: 36.24%;
+  left: 23.33%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11.58%;
+  width: 50.00%;
+}
+.home-page-car-delete .cancel-uyKIUc {
+  background-color: transparent;
+  height: 20px;
+  left: 29px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .car-howkCj {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .cellphone-Ki0one {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .claritytimes-circle-solid-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 1353px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 268px;
+  width: 30px;
+}
+.home-page-car-delete .claritytimes-circle-solid-QxM5SU {
+  background-color: transparent;
+  height: 30px;
+  left: 1348px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 906px;
+  width: 30px;
+}
+.home-page-car-delete .claritytimes-circle-solid-VMr6Om {
+  background-color: transparent;
+  height: 30px;
+  left: 1348px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 459px;
+  width: 30px;
+}
+.home-page-car-delete .claritytimes-circle-solid-mzXdH9 {
+  background-color: transparent;
+  height: 30px;
+  left: 1348px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 684px;
+  width: 30px;
+}
+.home-page-car-delete .drone-KfAAKu {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .ellipse-2-B08mCn {
+  background-color: var(--link-water);
+  border-radius: 15px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.home-page-car-delete .ellipse-2-eYqyUC {
+  background-color: var(--link-water);
+  border-radius: 15px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.home-page-car-delete .engine-GrM9XX {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .fa-solidedit-eYqyUC {
+  background-color: transparent;
+  height: 49.85%;
+  left: 30.00%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 22.21%;
+  width: 48.75%;
+}
+.home-page-car-delete .flat-color-iconsinfo-GrM9XX {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-MccqLq {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-hcnFW1 {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-jGSBnk {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-mjIumg {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-ni4IuY {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 10px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-otulIX {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-rq78IU {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-trCdTl {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-vcoZO8 {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-wd1xcm {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .flat-color-iconsinfo-zUjqOF {
+  background-color: transparent;
+  height: 15px;
+  left: 478px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11px;
+  width: 15px;
+}
+.home-page-car-delete .group-1-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+.home-page-car-delete .group-102-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 1312px;
+  position: absolute;
+  top: 156px;
+  width: 30px;
+}
+.home-page-car-delete .group-103-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1353px;
+  position: absolute;
+  top: 156px;
+  width: 30px;
+}
+.home-page-car-delete .group-123-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 110px;
+  width: 1328px;
+}
+.home-page-car-delete .group-124-kdwriU {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 22px;
+}
+.home-page-car-delete .group-129-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 471px;
+  position: absolute;
+  top: 531px;
+  width: 20px;
+}
+.home-page-car-delete .group-130-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 232px;
+  width: 408px;
+}
+.home-page-car-delete .group-131-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 327px;
+  width: 408px;
+}
+.home-page-car-delete .group-132-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 422px;
+  width: 408px;
+}
+.home-page-car-delete .group-3-C61RwL {
+  background-color: transparent;
+  height: 971px;
+  left: 57px;
+  position: absolute;
+  top: 148px;
+  width: 468px;
+}
+.home-page-car-delete .group-3-VyzZeT {
+  background-color: transparent;
+  height: 41px;
+  left: 1363px;
+  position: absolute;
+  top: 10px;
+  width: 49px;
+}
+.home-page-car-delete .group-7-2p4Gmi {
+  background-color: transparent;
+  height: 30px;
+  left: 720px;
+  position: absolute;
+  top: 17px;
+  width: 102px;
+}
+.home-page-car-delete .group-8-2p4Gmi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 600px;
+  position: absolute;
+  top: 17px;
+  width: 102px;
+}
+.home-page-car-delete .group-88-C61RwL {
+  background-color: transparent;
+  height: 47px;
+  left: 555px;
+  position: absolute;
+  top: 1061px;
+  width: 820px;
+}
+.home-page-car-delete .iaf01-01-ni4IuY {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .iaf01-02-rq78IU {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .iaf01-03-wd1xcm {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .iaf01-04-hcnFW1 {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .iaf01-howkCj {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .iaf02-Ki0one {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .iaf03-KfAAKu {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .image-2-VyzZeT {
+  background-color: transparent;
+  height: 60px;
+  left: 20px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+.home-page-car-delete .image-3-C61RwL {
+  background-color: transparent;
+  height: 187px;
+  left: 1143px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 194px;
+  width: 187px;
+}
+.home-page-car-delete .image-4-C61RwL {
+  background-color: transparent;
+  height: 125px;
+  left: 1077px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 424px;
+  width: 276px;
+}
+.home-page-car-delete .image-5-C61RwL {
+  background-color: transparent;
+  height: 105px;
+  left: 1077px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 641px;
+  width: 251px;
+}
+.home-page-car-delete .image-6-C61RwL {
+  background-color: transparent;
+  height: 163px;
+  left: 1123px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 829px;
+  width: 163px;
+}
+.home-page-car-delete .inventory-asset-forecasting-VyzZeT {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 334px;
+}
+.home-page-car-delete .line-16-2p4Gmi {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 820px;
+}
+.home-page-car-delete .line-20-kVKiWv {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 38px;
+  width: 1326px;
+}
+.home-page-car-delete .line-21-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 392px;
+  width: 824px;
+}
+.home-page-car-delete .line-22-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 602px;
+  width: 824px;
+}
+.home-page-car-delete .line-23-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 804px;
+  width: 824px;
+}
+.home-page-car-delete .logout-Q6TFI9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 49px;
+}
+.home-page-car-delete .mdi-lightmagnify-LfwUjk {
+  background-color: transparent;
+  height: 24px;
+  left: 213px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+.home-page-car-delete .mirror-MccqLq {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .parts-description-GrM9XX {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-description-MccqLq {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-description-mjIumg {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-description-otulIX {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-id-hcnFW1 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-id-ni4IuY {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-id-rq78IU {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .parts-id-wd1xcm {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .produce-count-KfAAKu {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .produce-count-Ki0one {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .produce-count-howkCj {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .products-kVKiWv {
+  background-color: transparent;
+  height: 25px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .quantity-jGSBnk {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .quantity-trCdTl {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .quantity-vcoZO8 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .quantity-zUjqOF {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-car-delete .rectangle-1-VyzZeT {
+  background-color: var(--ebony-clay);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.home-page-car-delete .rectangle-10-GrM9XX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-LfwUjk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+.home-page-car-delete .rectangle-10-MccqLq {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-hcnFW1 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-jGSBnk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-mjIumg {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-ni4IuY {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-otulIX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-rq78IU {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-trCdTl {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-vcoZO8 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-wd1xcm {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-10-zUjqOF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-car-delete .rectangle-3-hvAGCq {
+  background-color: var(--scarpa-flow);
+  height: 971px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 468px;
+}
+.home-page-car-delete .rectangle-59-Ntax4x {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.home-page-car-delete .rectangle-59-uyKIUc {
+  background-color: transparent;
+  border: 1px solid var(--flamingo);
+  border-radius: 5px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 100px;
+}
+.home-page-car-delete .rectangle-88-kVKiWv {
+  background-color: var(--flamingo);
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 182px;
+}
+.home-page-car-delete .rectangle-89-ZpkusC {
+  background-color: var(--vulcan);
+  border-radius: 5px;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.home-page-car-delete .rectangle-90-KfAAKu {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-car-delete .rectangle-90-Ki0one {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-car-delete .rectangle-90-howkCj {
+  background-color: var(--waterloo-);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-car-delete .remove-all-Ntax4x {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 102px;
+}
+.home-page-car-delete .search-LfwUjk {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .text-field-2P4qUJ {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 477px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-3kIbHG {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 890px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 241px;
+  position: absolute;
+  top: 177px;
+  width: 252px;
+}
+.home-page-car-delete .text-field-HlKRTo {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 687px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-J1YQmd {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 533px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-QxM5SU {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 268px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-VMr6Om {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 212px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-VkPPtx {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 743px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-YWzA7M {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 834px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-a5WPlX {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 631px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-a73nmY {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 946px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-mzXdH9 {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 421px;
+  width: 507px;
+}
+.home-page-car-delete .text-field-qr8e7q {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 324px;
+  width: 507px;
+}
+.home-page-car-delete .vector-2puaGO {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-51Fe2N {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-5EjEx0 {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-DMQCYh {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-MEexO3 {
+  background-color: transparent;
+  height: 84.00%;
+  left: 7.88%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8.00%;
+  width: 86.00%;
+}
+.home-page-car-delete .vector-Nmkj4l {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-PEgzOO {
+  background-color: transparent;
+  height: 103.64%;
+  left: -1.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1.81%;
+  width: 102.56%;
+}
+.home-page-car-delete .vector-PrnOeo {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-QA2iqP {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-QEBiGx {
+  background-color: transparent;
+  height: 90.00%;
+  left: 5.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5.00%;
+  width: 90.00%;
+}
+.home-page-car-delete .vector-SYHP5Z {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-TAzh34 {
+  background-color: transparent;
+  height: 90.00%;
+  left: 5.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5.00%;
+  width: 90.00%;
+}
+.home-page-car-delete .vector-Tqfid0 {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-VXnk7M {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-Vd8xNV {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-VxzKg9 {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-WLhHy8 {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-YBGNfK {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-YIVoQL {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-Z3LCcN {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-ZVv1IH {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-aufupG {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-c6M2D3 {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-eUi9C4 {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-fGN1lz {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-fza8aX {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-htotex {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-jL2bRz {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-kTgpSO {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-lXJ3xn {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-o2TPej {
+  background-color: transparent;
+  height: 90.00%;
+  left: 5.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5.00%;
+  width: 90.00%;
+}
+.home-page-car-delete .vector-omcbeN {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-pykdJ2 {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-saEGxH {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-tCHQLv {
+  background-color: transparent;
+  height: 72.92%;
+  left: 11.62%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15.80%;
+  width: 72.92%;
+}
+.home-page-car-delete .vector-vRcEsB {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-xI5tTB {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-xLWXxt {
+  background-color: transparent;
+  height: 26.67%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 43.96%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-xPMvPj {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-y1XeMK {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .vector-yCcsoQ {
+  background-color: transparent;
+  height: 13.33%;
+  left: 43.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 27.71%;
+  width: 13.33%;
+}
+.home-page-car-delete .vector-yPh5iv {
+  background-color: transparent;
+  height: 90.00%;
+  left: 5.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5.00%;
+  width: 90.00%;
+}
+.home-page-car-delete .vector-yRLXsy {
+  background-color: transparent;
+  height: 86.93%;
+  left: 10.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6.54%;
+  width: 80.00%;
+}
+.home-page-car-delete .vector-zkH16s {
+  background-color: transparent;
+  height: 93.33%;
+  left: 3.33%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3.33%;
+  width: 93.33%;
+}
+.home-page-car-delete .wheels-mjIumg {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .x1-ZpkusC {
+  background-color: transparent;
+  height: 10px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 12px;
+}
+.home-page-car-delete .x2-howkCj {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .x2-trCdTl {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .x2-vcoZO8 {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .x3-KfAAKu {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-car-delete .x3-jGSBnk {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .x4-zUjqOF {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-car-delete .x5-Ki0one {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}

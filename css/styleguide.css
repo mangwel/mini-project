@@ -1,0 +1,104 @@
+:root {
+  --blue-jeans: #73a9ec;
+  --ebony-clay: #26293f;
+  --flamingo: #ef5d20;
+  --link-water: #d9eaf5;
+  --pink-swan: #bbbbbb;
+  --pumice: #cacaca;
+  --royal-blue: #2f81e7;
+  --scarpa-flow: #51556b;
+  --slimy-green: #2aac0b;
+  --vulcan: #13141e;
+  --waterloo-: #7d8196;
+  --white: #ffffff;
+
+  --font-size-l: 18px;
+  --font-size-m: 16px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xs: 12px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 64px;
+
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-samsungone-600: "SamsungOne-600", Helvetica;
+}
+.roboto-normal-pumice-16px {
+  color: var(--pumice);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-black-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 900;
+}
+.roboto-medium-blue-jeans-12px {
+  color: var(--blue-jeans);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+.roboto-black-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 900;
+}
+.samsungone-600-normal-pumice-16px {
+  color: var(--pumice);
+  font-family: var(--font-family-samsungone-600);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-normal-flamingo-14px {
+  color: var(--flamingo);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.roboto-medium-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+.border-2px-pink-swan {
+  border: 2px solid var(--pink-swan);
+}
+.border-2px-vulcan {
+  border: 2px solid var(--vulcan);
+}
+.border-1px-scarpa-flow {
+  border: 1px solid var(--scarpa-flow);
+}

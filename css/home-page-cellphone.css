@@ -1,0 +1,1372 @@
+/* screen - home-page-cellphone */
+
+.home-page-cellphone {
+  background-color: var(--vulcan);
+  height: 100vh;
+  margin: 0px;
+  min-height: 1178px;
+  min-width: 1440px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 100%;
+}
+.home-page-cellphone .ant-designlogout-outlined-Q6TFI9 {
+  background-color: transparent;
+  height: 25px;
+  left: 9px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.home-page-cellphone .battery-GrM9XX {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .bxbxs-trash-alt-B08mCn {
+  background-color: transparent;
+  height: 36.24%;
+  left: 23.33%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 11.58%;
+  width: 50.00%;
+}
+.home-page-cellphone .camera-mjIumg {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .car-howkCj {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .cellphone-Ki0one {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .drone-KfAAKu {
+  background-color: transparent;
+  height: auto;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 33px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .ellipse-2-B08mCn {
+  background-color: var(--link-water);
+  border-radius: 15px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.home-page-cellphone .ellipse-2-eYqyUC {
+  background-color: var(--link-water);
+  border-radius: 15px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 30px;
+}
+.home-page-cellphone .fa-solidedit-eYqyUC {
+  background-color: transparent;
+  height: 49.85%;
+  left: 30.00%;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 22.21%;
+  width: 48.75%;
+}
+.home-page-cellphone .group-1-C61RwL {
+  background-color: transparent;
+  height: 60px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1442px;
+}
+.home-page-cellphone .group-102-C61RwL {
+  background-color: transparent;
+  height: 30px;
+  left: 1312px;
+  position: absolute;
+  top: 156px;
+  width: 30px;
+}
+.home-page-cellphone .group-103-C61RwL {
+  background-color: transparent;
+  height: 48px;
+  left: 1353px;
+  position: absolute;
+  top: 156px;
+  width: 30px;
+}
+.home-page-cellphone .group-123-C61RwL {
+  background-color: transparent;
+  height: 38px;
+  left: 57px;
+  position: absolute;
+  top: 110px;
+  width: 1328px;
+}
+.home-page-cellphone .group-124-kdwriU {
+  background-color: transparent;
+  height: 20px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 22px;
+}
+.home-page-cellphone .group-129-C61RwL {
+  background-color: transparent;
+  height: 20px;
+  left: 471px;
+  position: absolute;
+  top: 531px;
+  width: 20px;
+}
+.home-page-cellphone .group-130-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 232px;
+  width: 408px;
+}
+.home-page-cellphone .group-131-C61RwL {
+  background-color: transparent;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 327px;
+  width: 408px;
+}
+.home-page-cellphone .group-132-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 80px;
+  left: 91px;
+  position: absolute;
+  top: 422px;
+  width: 408px;
+}
+.home-page-cellphone .group-133-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 327px;
+  width: 266px;
+}
+.home-page-cellphone .group-134-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 533px;
+  width: 266px;
+}
+.home-page-cellphone .group-135-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 743px;
+  width: 266px;
+}
+.home-page-cellphone .group-136-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 1117px;
+  position: absolute;
+  top: 946px;
+  width: 266px;
+}
+.home-page-cellphone .group-3-C61RwL {
+  background-color: transparent;
+  height: 971px;
+  left: 57px;
+  position: absolute;
+  top: 148px;
+  width: 468px;
+}
+.home-page-cellphone .group-3-VyzZeT {
+  background-color: transparent;
+  height: 41px;
+  left: 1363px;
+  position: absolute;
+  top: 10px;
+  width: 49px;
+}
+.home-page-cellphone .group-7-0VemYL {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-cellphone .group-7-0VemYL:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-cellphone .group-7-GnH3Dd {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-cellphone .group-7-GnH3Dd:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-cellphone .group-7-xYSxTl {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-cellphone .group-7-xYSxTl:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-cellphone .group-7-xxRT71 {
+  background-color: transparent;
+  height: 36px;
+  left: 94px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 174px;
+}
+.home-page-cellphone .group-7-xxRT71:hover {
+
+transform: translate(0, -5px);
+box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.home-page-cellphone .iaf01-howkCj {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .iaf02-01-ni4IuY {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .iaf02-02-rq78IU {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .iaf02-03-wd1xcm {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .iaf02-04-hcnFW1 {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .iaf02-Ki0one {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .iaf03-KfAAKu {
+  background-color: transparent;
+  height: 20px;
+  left: 23px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 12px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .image-10-C61RwL {
+  background-color: transparent;
+  height: 108px;
+  left: 1188px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 818px;
+  width: 71px;
+}
+.home-page-cellphone .image-2-VyzZeT {
+  background-color: transparent;
+  height: 60px;
+  left: 20px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 60px;
+}
+.home-page-cellphone .image-7-C61RwL {
+  background-color: transparent;
+  height: 94px;
+  left: 1155px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 213px;
+  width: 153px;
+}
+.home-page-cellphone .image-8-C61RwL {
+  background-color: transparent;
+  height: 92px;
+  left: 1161px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 422px;
+  width: 147px;
+}
+.home-page-cellphone .image-9-C61RwL {
+  background-color: transparent;
+  height: 107px;
+  left: 1184px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 616px;
+  width: 80px;
+}
+.home-page-cellphone .inventory-asset-forecasting-VyzZeT {
+  background-color: transparent;
+  height: auto;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: 334px;
+}
+.home-page-cellphone .lcd-screen-otulIX {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .line-20-kVKiWv {
+  background-color: transparent;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  top: 38px;
+  width: 1326px;
+}
+.home-page-cellphone .line-21-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 392px;
+  width: 824px;
+}
+.home-page-cellphone .line-22-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 602px;
+  width: 824px;
+}
+.home-page-cellphone .line-23-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 559px;
+  position: absolute;
+  top: 804px;
+  width: 824px;
+}
+.home-page-cellphone .logout-Q6TFI9 {
+  background-color: transparent;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 25px;
+  width: 49px;
+}
+.home-page-cellphone .mdi-lightmagnify-LfwUjk {
+  background-color: transparent;
+  height: 24px;
+  left: 213px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 6px;
+  width: 24px;
+}
+.home-page-cellphone .parts-description-GrM9XX {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-description-MccqLq {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-description-mjIumg {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-description-otulIX {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-id-hcnFW1 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-id-ni4IuY {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-id-rq78IU {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .parts-id-wd1xcm {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .produce-9nIQx3 {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-cellphone .produce-XCE04S {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-cellphone .produce-count-KfAAKu {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .produce-count-Ki0one {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .produce-count-howkCj {
+  background-color: transparent;
+  height: auto;
+  left: 286px;
+  letter-spacing: 0.00px;
+  line-height: 16.9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 43px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .produce-k4KaFW {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-cellphone .produce-v3VyIi {
+  background-color: transparent;
+  height: 27px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 174px;
+}
+.home-page-cellphone .products-kVKiWv {
+  background-color: transparent;
+  height: 25px;
+  left: 58px;
+  letter-spacing: 0.00px;
+  line-height: 25.3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .quantity-jGSBnk {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .quantity-trCdTl {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .quantity-vcoZO8 {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .quantity-zUjqOF {
+  background-color: transparent;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: auto;
+}
+.home-page-cellphone .rectangle-1-VyzZeT {
+  background-color: var(--ebony-clay);
+  height: 60px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 1440px;
+}
+.home-page-cellphone .rectangle-10-34JVUn {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-cellphone .rectangle-10-5a1vwp {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-cellphone .rectangle-10-GrM9XX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-HXBwy7 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-cellphone .rectangle-10-LfwUjk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 250px;
+}
+.home-page-cellphone .rectangle-10-MccqLq {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-eFSiOI {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 87px;
+}
+.home-page-cellphone .rectangle-10-hcnFW1 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-jGSBnk {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-mjIumg {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-ni4IuY {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-otulIX {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-rq78IU {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-trCdTl {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-vcoZO8 {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-wd1xcm {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-10-zUjqOF {
+  background-color: transparent;
+  border-radius: 5px;
+  height: 36px;
+  left: 138px;
+  position: absolute;
+  top: 0px;
+  width: 365px;
+}
+.home-page-cellphone .rectangle-3-hvAGCq {
+  background-color: var(--scarpa-flow);
+  height: 971px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: relative;
+  top: 0px;
+  width: 468px;
+}
+.home-page-cellphone .rectangle-59-9nIQx3 {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-cellphone .rectangle-59-XCE04S {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-cellphone .rectangle-59-k4KaFW {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-cellphone .rectangle-59-v3VyIi {
+  background-color: var(--slimy-green);
+  border-radius: 5px;
+  height: 36px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 172px;
+}
+.home-page-cellphone .rectangle-88-kVKiWv {
+  background-color: var(--flamingo);
+  height: 5px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 33px;
+  width: 182px;
+}
+.home-page-cellphone .rectangle-89-ZpkusC {
+  background-color: var(--vulcan);
+  border-radius: 5px;
+  height: 20px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 20px;
+}
+.home-page-cellphone .rectangle-90-KfAAKu {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-cellphone .rectangle-90-Ki0one {
+  background-color: var(--waterloo-);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-cellphone .rectangle-90-howkCj {
+  background-color: var(--scarpa-flow);
+  border-radius: 10px;
+  height: 80px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0px;
+  width: 400px;
+}
+.home-page-cellphone .search-LfwUjk {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .speaker-MccqLq {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .text-field-0VemYL {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-cellphone .text-field-2P4qUJ {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 477px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-3kIbHG {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 890px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-C61RwL {
+  background-color: transparent;
+  height: 36px;
+  left: 241px;
+  position: absolute;
+  top: 177px;
+  width: 252px;
+}
+.home-page-cellphone .text-field-GnH3Dd {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-cellphone .text-field-HlKRTo {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 687px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-J1YQmd {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 533px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-QxM5SU {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 268px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-VMr6Om {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 212px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-VkPPtx {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 743px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-YWzA7M {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 834px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-a5WPlX {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 631px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-a73nmY {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 946px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-mzXdH9 {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 421px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-qr8e7q {
+  background-color: transparent;
+  height: 36px;
+  left: 555px;
+  position: absolute;
+  top: 324px;
+  width: 507px;
+}
+.home-page-cellphone .text-field-xYSxTl {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-cellphone .text-field-xxRT71 {
+  background-color: transparent;
+  height: 36px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 89px;
+}
+.home-page-cellphone .vector-MEexO3 {
+  background-color: transparent;
+  height: 84.00%;
+  left: 7.88%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 8.00%;
+  width: 86.00%;
+}
+.home-page-cellphone .vector-PEgzOO {
+  background-color: transparent;
+  height: 103.64%;
+  left: -1.28%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1.81%;
+  width: 102.56%;
+}
+.home-page-cellphone .vector-tCHQLv {
+  background-color: transparent;
+  height: 72.92%;
+  left: 11.62%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 15.80%;
+  width: 72.92%;
+}
+.home-page-cellphone .vector-yRLXsy {
+  background-color: transparent;
+  height: 86.93%;
+  left: 10.00%;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6.54%;
+  width: 80.00%;
+}
+.home-page-cellphone .x1-ZpkusC {
+  background-color: transparent;
+  height: 10px;
+  left: 5px;
+  letter-spacing: 0.00px;
+  line-height: 19.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: 12px;
+}
+.home-page-cellphone .x2-34JVUn {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-cellphone .x2-5a1vwp {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-cellphone .x2-HXBwy7 {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-cellphone .x2-eFSiOI {
+  background-color: transparent;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 70px;
+}
+.home-page-cellphone .x2-howkCj {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .x2-trCdTl {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .x2-vcoZO8 {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .x3-KfAAKu {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
+.home-page-cellphone .x3-jGSBnk {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .x4-zUjqOF {
+  background-color: transparent;
+  height: 16px;
+  left: 149px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  width: 131px;
+}
+.home-page-cellphone .x5-Ki0one {
+  background-color: transparent;
+  height: 34px;
+  left: 320px;
+  letter-spacing: 0.00px;
+  line-height: 33.8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  white-space: nowrap;
+  width: auto;
+}
